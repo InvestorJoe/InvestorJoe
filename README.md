@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @InvestorJoe
-- 👀 I’m interested in Working with teams
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on New projects
-- 📫 How to reach me on Whatsapp +2349051908486
-- Facebook @Joseph ozioma Olorondu
+🚀 Discord Server Developer | Community & Automation Specialist
 
-<!---
-InvestorJoe/InvestorJoe is a ✨ special ✨ repository because its Brings out the very best in me.`README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design, develop, and manage professional Discord servers tailored to businesses, communities, and brands.
+
+From complete server setups to advanced bot configurations, I build organized, secure, and fully functional Discord communities.
+
+What I Do:
+
+* Complete Discord Server Setup & Customization
+* Roles, Permissions & Channel Management
+* Ticket Systems & Customer Support Automation
+* Bot Integration & Configuration
+* Auto Moderation & Anti-Spam Protection
+* Welcome Systems & Verification Setup
+* Community Management & Security
+* Prop Firm & Trading Community Setups
+
+My Goal: To build professional, scalable, and well-organized Discord servers that improve communication, automate operations, and create better community experiences.
+
+💻 Building smarter Discord communities, one server at a time.
